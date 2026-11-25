@@ -1,46 +1,55 @@
-# EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
-## DATE:
+EXERIMENT 3.1: 
 
-## AIM:
-To create a 3D model from given orthographic projection.
+CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION 
 
-## REQUIREMENTS:
-1. Autodesk fusion 360
-2. Windows 10
-3. 16 GB of RAM (integrated graphics recommend 1 GB or more)
-4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
+AIM: 
+To create a 3D model from a given orthographic projection. 
 
-## PROCEDURE:
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
+REQUIREMENTS: 
 
-![image](https://user-images.githubusercontent.com/113594316/198551199-8d9b7f6c-6ea7-4d59-8e8c-173f2b5e088f.png)
+1.Autodesk fusion 360 
+2.Windows 10 
+3.16 GB of RAM (integrated graphics recommend 1 GB or more) 
+4.2.5 Mbps or faster download; 500 Kbps or faster upload 
 
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
+PROCEDURE: 
 
-![image](https://user-images.githubusercontent.com/113594316/198551220-c7aa6694-4427-48e2-9d91-cd7e9615d651.png)
+1.First we should open the fusion 360,then select new to create a new project.
+2.We should select the view as front or top or which view we want. 
+3.Then click create sketch to start our project. 
+<img width="751" height="565" alt="edm3 1-1" src="https://github.com/user-attachments/assets/dee7a8a5-eedb-4750-9ced-c6e4a0b8f88f" />
 
-5.	Use inspect feature to measure the dimensions of sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198551270-45875855-43a7-4471-af35-bd10cd9dd153.png)
+4.Draw the required base profile using the Line and Arc tools as shown in the given drawing. 
+5. Use the Circle tool to draw the circular portion and apply the given dimensions of Ø16 mm and R16 mm.
+6. Use the Line tool to draw the rectangular portions according to the given dimensions. 
+<img width="750" height="505" alt="edm3 1-2" src="https://github.com/user-attachments/assets/1c23d4b7-ba78-43ea-93e2-b88e3531d969" />
 
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198551309-8d7ac6c8-6740-479f-8186-195c89823fda.png)
+7. Apply the required dimensions using the Sketch Dimension (D) tool. Enter the measurements accurately in millimeters. 
+8. Draw the remaining profile using the given dimensions of 36 mm, 32 mm, 52 mm and 11 mm.
+<img width="752" height="497" alt="edm3 1-3" src="https://github.com/user-attachments/assets/c75bd68b-6abb-4e15-9eb1-335b217b1b35" />
 
-7.	Use extrude option to convert 3D model from sketch
 
-![image](https://user-images.githubusercontent.com/113594316/198551340-fe1f3b48-df79-44ef-a4ae-ff1cd22503ea.png)
 
-8.	After finishing the model convert to drawing sheet per  ISO standard.
 
-![image](https://user-images.githubusercontent.com/113594316/198551370-54509915-ec69-4862-9c17-156d61a83b11.png)
+9. Create the required circular openings using the Circle tool and specify the diameter as Ø18 mm wherever shown. 
+10. Complete the sketch by checking all the dimensions with the given front view, top view and right view.
+<img width="747" height="556" alt="edm3 1-4" src="https://github.com/user-attachments/assets/a0345f3d-9944-4a92-babc-f5d37d3f471b" />
 
-## INPUT:
-![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
+11. Finish the sketch and use the Extrude tool to provide the required thickness according to the drawing. 
+12. Check the final model and make sure that the shape and dimensions match the given drawing. 
+13. Save the completed design.
+<img width="747" height="487" alt="edm3 1-5" src="https://github.com/user-attachments/assets/983aa0a4-5659-4faa-b193-ad64b902551b" />
 
-## OUTPUT:
+SKETCHES:
+<img width="687" height="497" alt="edm3 1-0" src="https://github.com/user-attachments/assets/70c7cee9-c1cf-4240-9358-1ce8aa050594" />
 
-## RESULT:
-Thus, 3D model is created from orthographic projection.
+
+OUTPUT: 
+<img width="750" height="392" alt="edm3 1-6" src="https://github.com/user-attachments/assets/97456587-86ee-4ed5-bbeb-3cc715b15404" />
+<img width="1498" height="1050" alt="Experiment 3 1 Technical Drawing" src="https://github.com/user-attachments/assets/ed553704-c039-41db-b2f3-c4a8e4b53884" />
+
+RESULT: 
+
+Thus, a 3D model is created from orthographic projection.
